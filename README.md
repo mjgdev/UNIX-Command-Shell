@@ -6,10 +6,8 @@ Features:
 - Waits for foreground processes using waitpid()
 - Supports background execution using &
 - Supports pipes using pipe()
-- Supports input redirection using <
-- Supports output redirection using >
-- Supports built-in cd command
-- Supports built-in exit command
+- Supports input and output redirection using < and >
+- Supports built-in cd command and built-in exit command
 - Uses file descriptors and dup2() for input/output redirection
 
 Technologies Used:
