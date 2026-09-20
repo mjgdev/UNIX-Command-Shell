@@ -22,5 +22,8 @@ Example Commands:
 - cat < test.txt
 - cd
 - echo HELLO > test.txt
+
+
 cat < test.txt
 cd 
+   
