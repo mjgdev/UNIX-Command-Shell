@@ -23,5 +23,7 @@ Example Commands:
 - cd
 - echo HELLO > test.txt
 - cat < test.txt
-cd 
-   
+
+
+
+
