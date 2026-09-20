@@ -16,13 +16,13 @@ Technologies Used:
 - C, Linux / Unix, POSIX system calls, Process management, Inter process communication (IPC), File descriptors, NetBeans IDE 
   
 Example Commands:
-ls
-pwd
-sleep 3 &
-ls | wc
-echo HELLO > test.txt
-cat < test.txt
-cd
-echo HELLO > test.txt
+- ls
+- pwd
+- sleep 3 &
+- ls | wc
+- echo HELLO > test.txt
+- cat < test.txt
+- cd
+- echo HELLO > test.txt
 cat < test.txt
 cd 
