@@ -13,13 +13,7 @@ Features:
 - Uses file descriptors and dup2() for input/output redirection
 
 Technologies Used:
-- C
-- Linux / Unix
-- POSIX system calls
-- Process management
-- Inter process communication (IPC)
-- File descriptors
-- NetBeans IDE was used
+- C, Linux / Unix, POSIX system calls, Process management, Inter process communication (IPC), File descriptors, NetBeans IDE 
   
 Example Commands:
 ls
